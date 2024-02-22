@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45770287654",
+    "project_id": "authplayground-4e996",
+    "storage_bucket": "authplayground-4e996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45770287654:android:d59ac07de246ad331394e7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsXELdJisUnhQqjh3vfoLUoMd9P5bsJV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
